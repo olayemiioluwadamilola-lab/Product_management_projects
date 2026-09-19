@@ -18,7 +18,16 @@ Product Manager specializing in end-to-end execution, UI/UX optimization, high-f
 
 ---
 
-## 🛠️ Product Management Toolkit
+
+
+### 3. Novare — Custom Co-Ord Streetwear E-Commerce
+[![Novare](./assets/novare-card.png)](./novare/)
+* 👉 **[Read Full Case Study & PRD](./novare/)** | **[Live MVP Demo](https://novare-couple-coords.lovable.app)
+
+
+---
+
+##🛠️ Product Management Toolkit
 
 * **Strategy & PRDs:** Notion, Confluence, Whimsical
 * **UI/UX & Prototyping:** Figma, FigJam, Miro
